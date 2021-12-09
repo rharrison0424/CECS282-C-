@@ -1,0 +1,21 @@
+﻿  BoardDirection.cpp
+  BoardPosition.cpp
+  ConnectFourBoard.cpp
+C:\Users\lllf5\OneDrive\Documents\CECS 282\Project3\Project3\ConnectFourBoard.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lllf5\OneDrive\Documents\CECS 282\Project3\Project3\ConnectFourBoard.cpp(76,20): warning C4018: '<': signed/unsigned mismatch
+  ConnectFourMove.cpp
+  ConnectFourView.cpp
+  main.cpp
+C:\Users\lllf5\OneDrive\Documents\CECS 282\Project3\Project3\main.cpp(62,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lllf5\OneDrive\Documents\CECS 282\Project3\Project3\main.cpp(83,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lllf5\OneDrive\Documents\CECS 282\Project3\Project3\main.cpp(108,12): warning C4018: '>': signed/unsigned mismatch
+  OthelloBoard.cpp
+  OthelloMove.cpp
+  OthelloView.cpp
+  TicTacToeBoard.cpp
+C:\Users\lllf5\OneDrive\Documents\CECS 282\Project3\Project3\TicTacToeBoard.cpp(46,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lllf5\OneDrive\Documents\CECS 282\Project3\Project3\TicTacToeBoard.cpp(48,21): warning C4018: '<': signed/unsigned mismatch
+  TicTacToeMove.cpp
+  TicTacToeView.cpp
+  Generating Code...
+  Project3.vcxproj -> C:\Users\lllf5\OneDrive\Documents\CECS 282\Project3\Debug\Project3.exe
